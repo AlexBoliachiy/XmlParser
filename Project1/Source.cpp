@@ -17,12 +17,6 @@ int launch_In_thread(std::vector<Interval>& intervals)
 	return 0;
 }
 
-struct A
-{
-	int a;
-	void foo() {};
-};
-
 int main(int argc, char* argv[])
 {
 
